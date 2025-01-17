@@ -1,3 +1,4 @@
+practice-01/*/*.class
 *.o
 *.h
 *.exe
@@ -5,4 +6,3 @@
 .old
 *.txt
 desktop.ini
-practice-01/*/*.class
