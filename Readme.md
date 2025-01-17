@@ -2,7 +2,7 @@
 
 **Duration:** 1 day (**from 18 Jan 2025**)
 
-**Problems Solved:** 0
+**Problems Solved:** 2
 
 **Student Information:**
 
