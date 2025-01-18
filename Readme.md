@@ -4,6 +4,8 @@
 
 **Problems Solved:** 2
 
+**Projects Built:** 1
+
 **Student Information:**
 
 <table>
