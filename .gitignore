@@ -1,4 +1,6 @@
 practice-01/*/*.class
+practice-02/*/*/src/*.class
+practice-02/*/*/bin/*.*
 *.o
 *.h
 *.exe
