@@ -4,7 +4,7 @@
 
 **Problems Solved:** 2
 
-**Projects Built:** 1
+**Projects Built:** 1 (Java: **1**)
 
 **Student Information:**
 
