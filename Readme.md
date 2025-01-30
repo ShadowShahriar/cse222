@@ -1,8 +1,8 @@
 # CSE 222: Broken Structures
 
-**Duration:** 12 days (**from 18 Jan 2025 to 29 Jan 2025**)
+**Duration:** 13 days (**from 18 Jan 2025 to 30 Jan 2025**)
 
-**Problems Solved:** 2 (Java: **2**, C++: **1**)
+**Problems Solved:** 8 (Java: **2**, C++: **6**)
 
 **Projects Built:** 1 (Java: **1**)
 
@@ -32,7 +32,7 @@
 	</tr>
 	<tr>
 		<th align="left">Section</th>
-		<td>7</td>
+		<td>1</td>
 	</tr>
 </table>
 
