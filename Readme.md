@@ -2,7 +2,7 @@
 
 **Duration:** 13 days (**from 18 Jan 2025 to 30 Jan 2025**)
 
-**Problems Solved:** 8 (Java: **2**, C++: **6**)
+**Problems Solved:** 8 (Java: **2**, C: **4**, C++: **2**)
 
 **Projects Built:** 1 (Java: **1**)
 
