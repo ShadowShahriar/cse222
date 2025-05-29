@@ -1,8 +1,8 @@
 # CSE 222: Broken Structures
 
-**Duration:** 4 months 10 days (**from 18 Jan 2025 to 27 May 2025**)
+**Duration:** 4 months 12 days (**from 18 Jan 2025 to 29 May 2025**)
 
-**Problems Solved:** 52 (Java: **2**, C: **16**, C++: **36**)
+**Problems Solved:** 56 (Java: **2**, C: **16**, C++: **40**)
 
 **Projects Built:** 1 (Java: **1**)
 
